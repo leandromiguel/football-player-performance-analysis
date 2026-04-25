@@ -37,4 +37,4 @@ Este projeto analisa o desempenho de jogadores de futebol profissional europeu u
 - Atributos chave: reações, visão, drible
 
 ## Licença
-Ver LICENSE
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
